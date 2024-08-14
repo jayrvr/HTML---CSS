@@ -1,0 +1,23 @@
+/* h2 + p {
+    color: red;
+} */
+
+/* h2 ~ p {
+    color: violet;
+} */
+
+/* h2 ~ div {
+    color: darkred;
+} */
+
+/* Psuedo Classes */
+
+/* h2:hover {
+    color: red;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+li:first-of-type {
+    border: 1px solid magenta
+} */

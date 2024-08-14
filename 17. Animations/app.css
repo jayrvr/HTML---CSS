@@ -1,0 +1,68 @@
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: orangered;
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-name: move;
+    animation-duration: 10s;
+}
+
+/* @keyframes colorchange {
+    from {
+        background-color: pink;
+
+    }
+    to {
+        background-color: cyan;
+    }
+} */
+
+/* @keyframes spin {
+    from {
+        transform: rotate(0deg);
+
+    }
+    to {
+        transform: rotate(360deg);
+
+    }
+} */
+
+/* @keyframes rainbow {
+    0% {
+        background-color: red;
+    }
+    25% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: green;
+    }
+    75% {
+        background-color: blue;
+    }
+    100% {
+        background-color: violet;
+    }
+} */
+
+/* @keyframes move {
+    0% {
+        transform: translateX(0);
+        background-color: purple;
+    }
+    50% {
+        transform: translateX(500px);
+        background-color: magenta;
+    }
+    100% {
+        transform: translateX(250px);
+        background-color: green;
+    }
+
+    
+} */

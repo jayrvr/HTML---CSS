@@ -1,0 +1,12 @@
+p {
+    color: olive;
+    font-size: 35px;
+}
+
+.featured{
+    color: orangered;
+}
+
+#special {
+    color: magenta;
+}

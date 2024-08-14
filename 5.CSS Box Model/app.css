@@ -1,0 +1,11 @@
+.container p {
+    color: magenta;
+  }
+   
+  .container > p {
+    color: yellow;
+  }
+   
+  #quote {
+    color: cyan;
+  }
